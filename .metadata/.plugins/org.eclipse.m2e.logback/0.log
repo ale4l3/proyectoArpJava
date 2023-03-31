@@ -1,0 +1,7 @@
+2023-03-30 12:29:36,012 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-30 17:36:39,543 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-30 18:49:56,374 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-30 18:52:14,513 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-30 22:17:46,448 [Worker-41: Fetching remote refs from http://github.com/ale4l3/repositorio1] INFO  o.e.jgit.transport.TransportHttp - URI 'http://github.com/ale4l3/repositorio1': following HTTP redirect #0  http://github.com/ale4l3/repositorio1/ -> https://github.com/ale4l3/repositorio1/
+2023-03-30 22:17:49,754 [ModalContext] INFO  o.e.jgit.transport.TransportHttp - URI 'http://github.com/ale4l3/repositorio1': following HTTP redirect #0  http://github.com/ale4l3/repositorio1/ -> https://github.com/ale4l3/repositorio1/
+2023-03-30 23:19:20,728 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
