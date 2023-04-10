@@ -4,4 +4,10 @@
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.nio.file.Paths"/>
     <fullyQualifiedTypeName name="java.nio.file.Path"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="logicaNegocio.Producto"/>
+    <fullyQualifiedTypeName name="logicaNegocio.Descuento"/>
+    <fullyQualifiedTypeName name="logicaNegocio.Carrito"/>
+    <fullyQualifiedTypeName name="logicaNegocio.ItemCarrito"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>

@@ -28,7 +28,7 @@ public class Ejercicio1a {
 	for(int i = 0; i < CadenaLetras.length(); i++) {
 	char Caracter = CadenaLetras.charAt(i);
 	if (Caracter == letra) {
-	 CantAparece+=1;
+	CantAparece+= 1;
 	
 	 }
 	}
