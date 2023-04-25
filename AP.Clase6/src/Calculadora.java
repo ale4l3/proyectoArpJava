@@ -1,7 +1,6 @@
 
 public class Calculadora {
-	//private double numero_1;
-	//private double numero_2;
+
 	private double total_calculo;
 
 	public double sumar(double num_1, double num_2) {

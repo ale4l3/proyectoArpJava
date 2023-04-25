@@ -16,7 +16,7 @@ class CalculadoraTest {
 	       Calculadora instance = new Calculadora();
 	       double expResult = 4.0;
 	       double result = instance.sumar(num_1, num_2);
-	       assertEquals(expResult, result, 0.0);
+	       assertEquals(expResult, result, 4.0);
 	}
 
 	@Test

@@ -52,11 +52,11 @@ public class MAIN5 {
 		
 		obj.Descripcion = DescProducto;
 		obj.idProducto = Id;
-		obj.PrecioUnitario=Precio;
+		obj.PrecioUnitario = Precio;
 		
 		Id += 1;
 		
-		ItemCarrito obj2= new ItemCarrito();
+		ItemCarrito obj2 = new ItemCarrito();
 		obj2.Leer_Cargar(obj, Cantidad);
 		Carrito.precio(obj2);
 		
